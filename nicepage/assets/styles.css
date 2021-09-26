@@ -1,0 +1,385 @@
+/* big-factory section start */
+#big-factory{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./images/cover1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-color: whitesmoke;
+}
+#big-factory .cover-text{
+    text-align: center;
+    color: whitesmoke;
+}
+.cover-text h3{
+    padding-top: 200px;
+    color: yellow;
+}
+.cover-text h1{
+    font-size: 120px;
+}
+.cover-text p{
+    font-size: 18px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.button-read-more{
+    padding-top: 30px;
+    padding-left: 290px;
+}
+.button-read{
+    border-color: yellow;
+    background-color: yellow!important;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 400;
+}
+.button-get-started{
+    padding-left: 650px;
+    padding-top: 50px;
+}
+.button-get{
+    text-transform: uppercase;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+/* big-factory section end */
+/* contact-us section start */
+#contact-us{
+    background-color: yellow
+}
+.mine-size{
+    padding: 40px 80px 40px;
+}
+.text-contact h4{
+    text-transform: capitalize;
+}
+.text-contact h2{
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+.button-class{
+    padding-right: 10px;
+    padding-top: 60px;
+}
+.button-request-quote{
+    text-transform: uppercase;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+}
+.button-contact-us{
+    background-color: yellow;
+    text-transform: uppercase;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 600;
+    margin-left: 90px;
+    border-color: black;
+}
+/* contact-us section end */
+/* our-works section start */
+#our-works{
+    padding-top: 100px;
+}
+.mine-size{
+    padding: 40px 80px 40px;
+}
+#our-works img{
+    width: 367px;
+    height: 264px;
+}
+#our-works h3{
+    font-size: 18px;
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+#our-works h4{
+    font-size: 20px;
+    text-transform: capitalize;
+    color: khaki;
+}
+#our-works .pad-for-row-two{
+    padding-top: 50px;
+}
+/* our-works section end */
+/* our-story section start */
+#our-story{
+    padding-top: 80px;
+    padding-bottom: 70px;
+    background-color: #f2f2f2; 
+}
+.center-for-row{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.center-for-row h3{
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.center-for-row h2{
+    text-transform: capitalize;
+    font-size: 40px;
+}
+.padding-for-col-six{
+    padding-left: 100px;
+    padding-right: 10px;
+}
+.padding-for-col-six h2{
+    padding-top: 50px;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.padding-for-col-six p{
+    padding-top: 10px;
+    font-size: 15px;
+}
+.size-for-img img{
+    width: 360px;
+    height: 600px;
+    padding-top: 40px;
+    padding-right: 20px;
+}
+.padding-for-col-three{
+    padding-left: 60px;
+    padding-right: 70px;
+}
+.padding-for-col-three h2{
+    padding-top: 50px;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.padding-for-col-three p{
+    padding-top: 10px;
+    font-size: 15px;
+}
+/* our-story end */
+/* image on image section start */
+#image-on-image{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(./images/cover-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-color: whitesmoke;
+}
+#image-on-image .center-for-text{
+    text-align: center;
+    padding-bottom: 80px;
+    color: whitesmoke;
+}
+#image-on-image h3{
+    text-transform: capitalize;
+    font-size: 20px;
+}
+#image-on-image h2{
+    text-transform: capitalize;
+    font-size: 50px;
+}
+#image-on-image img{
+    width: 250px;
+    height: 250px;
+}
+.padding-for-four-pic{
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+/* image on image section end */
+/* brands section start */
+#brands-section{
+    height: 250px;
+    background-color: #f2f2f2;
+}
+#brands-section .mine-size{
+    padding-left: 100px;
+    padding-right: 100px;
+} 
+#brands-section img{
+    padding-top: 40px;
+    width: 170px;
+    height: 150px;
+}
+/* brands section end */
+/* our team section start */
+#our-team .center-for-text{
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#our-team h3{
+    text-transform: capitalize;
+    font-size: 20px;
+}
+#our-team h2{
+    text-transform: capitalize;
+    font-size: 50px;
+}
+#our-team  img{
+    text-align: center;
+    width: 350px;
+    height: 350px;
+}
+#our-team .mine-size{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 80px;
+}
+#our-team h4{
+    padding-top: 10px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 20px;
+}
+#our-team h5{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 50;
+}
+/* our team section end */
+/* statistics section start */
+#statistics{
+    height: 200px;
+    background-color: yellow;
+}
+#statistics .mine-size{
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+} 
+#statistics h1{
+    padding-top: 20px;
+    font-weight: 600;
+}
+#statistics h4{
+    font-size: 15px;
+    font-weight: 100;
+}
+/* statistics section end */
+/* testimonials section start */
+#testimonials{
+    background-color: #f2f2f2;
+}
+#testimonials .mine-size{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+#testimonials .text-about{
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#testimonials .text-about h3{
+    font-size: 20px;
+    font-weight: 400;
+}
+#testimonials .text-about h2{
+    font-size: 50px;
+    font-weight: 400;
+}
+#testimonials .backgr-div{
+    background-color:white;
+    border: 10px solid;
+    border-color: #f2f2f2;
+}
+#testimonials .img-about img{
+    height: 80px;
+    width: 85px;
+    margin-left: 70px;
+}
+#testimonials .img-about p{
+    padding-top: 20px;
+    width: 300px;
+}
+#testimonials .img-about h3{
+    text-transform: capitalize;
+    font-size: 20px;
+}
+#testimonials .img-about h4{
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight:400;
+}
+/* testimonials section end */
+/* quality-comes section start */
+#quality-comes{
+    background-image: url(./images/img-20.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-color: whitesmoke;
+}
+#quality-comes .slogan-text{
+    text-align: center;
+    padding-top: 70px;
+}
+#quality-comes h1{
+    text-transform: capitalize;
+    color: whitesmoke;
+    font-size: 45px;
+    font-weight: 400;
+}
+#quality-comes p{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 30px;
+    color: whitesmoke;
+}
+.slogan-text img{
+    width: 250px;
+    height: 100px;
+    margin-top: 30px;
+}
+/* quality-comes section end */
+/* blog-news section start */
+#blog-news .text-blog{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#blog-news .text-blog h2{
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+}
+#blog-news .text-blog h1{
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 400;
+}
+#blog-news .blog-img img{
+    width: 350px;
+    height: 260px;
+}
+#blog-news .blog-h3 h3{
+    font-size: 22px;
+    font-weight: 400;
+    text-transform: capitalize;
+    padding-top: 50px;
+}
+#blog-news .blog-p p{
+    font-size: 15px;
+    padding-top: 5px;
+}
+#blog-news .blog-h4 h4{
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: red;
+}
+/* blog-news section end */
+
+
+
+
+
